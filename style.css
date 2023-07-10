@@ -27,4 +27,16 @@ font-weight: 400;
 line-height: 30px;
 padding-bodding:30px;
 }
+/* !-- Finished header part --> */
+.main-container {
+    /* display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding:160px;
+    align-items: center; */
+
+}
+
+
 
